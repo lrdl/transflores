@@ -1,0 +1,12 @@
+checkpoints/
+data/
+data-bin/
+brx_en_bpe5000/
+output/
+experiments/
+scripts/indic_nlp_library/
+moses-decoder/
+scripts/translations/
+scripts/__pycache__/
+
+.ipynb_checkpoints/
